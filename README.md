@@ -21,3 +21,4 @@
 
 - 테마 사이트
   - https://windowsterminalthemes.dev/
+  - https://terminalsplash.com/
